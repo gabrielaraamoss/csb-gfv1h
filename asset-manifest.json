@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://gabrielaraamoss.github.io/csb-gfv1h/static/css/main.d40a5b26.chunk.css",
+    "main.js": "https://gabrielaraamoss.github.io/csb-gfv1h/static/js/main.b4c9a926.chunk.js",
+    "main.js.map": "https://gabrielaraamoss.github.io/csb-gfv1h/static/js/main.b4c9a926.chunk.js.map",
+    "runtime-main.js": "https://gabrielaraamoss.github.io/csb-gfv1h/static/js/runtime-main.66d27476.js",
+    "runtime-main.js.map": "https://gabrielaraamoss.github.io/csb-gfv1h/static/js/runtime-main.66d27476.js.map",
+    "static/js/2.0ca4d7cc.chunk.js": "https://gabrielaraamoss.github.io/csb-gfv1h/static/js/2.0ca4d7cc.chunk.js",
+    "static/js/2.0ca4d7cc.chunk.js.map": "https://gabrielaraamoss.github.io/csb-gfv1h/static/js/2.0ca4d7cc.chunk.js.map",
+    "index.html": "https://gabrielaraamoss.github.io/csb-gfv1h/index.html",
+    "static/css/main.d40a5b26.chunk.css.map": "https://gabrielaraamoss.github.io/csb-gfv1h/static/css/main.d40a5b26.chunk.css.map",
+    "static/js/2.0ca4d7cc.chunk.js.LICENSE.txt": "https://gabrielaraamoss.github.io/csb-gfv1h/static/js/2.0ca4d7cc.chunk.js.LICENSE.txt",
+    "static/media/logo-liderwin.3a8b2184.png": "https://gabrielaraamoss.github.io/csb-gfv1h/static/media/logo-liderwin.3a8b2184.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66d27476.js",
+    "static/js/2.0ca4d7cc.chunk.js",
+    "static/css/main.d40a5b26.chunk.css",
+    "static/js/main.b4c9a926.chunk.js"
+  ]
+}
